@@ -15,8 +15,8 @@
         </h1>
         
         <h2 style="color: #475569; font-size: 1.15rem; font-weight: 500; margin: 0 0 32px 0;">
-            THIS IS MY HOME PAGE!
-        </h2>
+            THIS IS MY HOME PAGE HEHE!
+        </h2> 
 
         <nav style="display: flex; justify-content: center; gap: 14px; flex-wrap: wrap;">
             <a href="{{ route('home') }}" style="background-color: blueviolet; color: #ffffff; text-decoration: none; padding: 12px 24px; border-radius: 8px; font-weight: bold; font-size: 0.95rem;">
